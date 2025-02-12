@@ -203,8 +203,5 @@ Activities Performed:
 
 ### Languages 
 
-Tajik - Native
-Russian - Excellent 
-English - Excellent 
-Japanese - Basic
+Tajik - Native; Russian - Excellent; English - Excellent; Japanese - Basic
 
